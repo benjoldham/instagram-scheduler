@@ -3,3 +3,4 @@ requests
 schedule
 flask_sqlalchemy
 flask_cors
+gunicorn
